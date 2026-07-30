@@ -1,0 +1,257 @@
+[
+  {
+    "name": "Charge Beam",
+    "code": "chargeBeam",
+    "type": "progression",
+    "features": [
+      "beam",
+      "beamRelated"
+    ]
+  },
+  {
+    "name": "Power Beam",
+    "code": "powerBeam",
+    "type": "progression",
+    "features": [
+      "beam",
+      "beamRelated"
+    ]
+  },
+  {
+    "name": "Wave Beam",
+    "code": "waveBeam",
+    "type": "progression",
+    "features": [
+      "beam",
+      "beamRelated"
+    ]
+  },
+  {
+    "name": "Ice Beam",
+    "code": "iceBeam",
+    "type": "progression",
+    "features": [
+      "beam",
+      "beamRelated"
+    ]
+  },
+  {
+    "name": "Plasma Beam",
+    "code": "plasmaBeam",
+    "type": "progression",
+    "features": [
+      "beam",
+      "beamRelated"
+    ]
+  },
+  {
+    "name": "Missile Launcher",
+    "code": "missileLauncher",
+    "type": "progression",
+    "features": [
+      "missile",
+      "missileRelated"
+    ]
+  },
+  {
+    "name": "Grapple Beam",
+    "code": "grapple",
+    "type": "progression",
+    "features": [
+      "movement"
+    ]
+  },
+  {
+    "name": "Combat Visor",
+    "code": "combatVisor",
+    "type": "progression",
+    "features": [
+      "hud",
+      "visor"
+    ]
+  },
+  {
+    "name": "Scan Visor",
+    "code": "scanVisor",
+    "type": "progression",
+    "features": [
+      "hud",
+      "visor"
+    ]
+  },
+  {
+    "name": "Thermal Visor",
+    "code": "thermalVisor",
+    "type": "progression",
+    "features": [
+      "hud",
+      "visor"
+    ]
+  },
+  {
+    "name": "X-Ray Visor",
+    "code": "xrayVisor",
+    "type": "progression",
+    "features": [
+      "hud",
+      "visor"
+    ]
+  },
+  {
+    "name": "Space Jump Boots",
+    "code": "sj",
+    "type": "progression",
+    "features": [
+      "movement"
+    ]
+  },
+  {
+    "name": "Morph Ball",
+    "code": "morph",
+    "type": "progression",
+    "features": [
+      "morphBall",
+      "morphBallRelated"
+    ]
+  },
+  {
+    "name": "Morph Ball Bomb",
+    "code": "bombs",
+    "type": "progression",
+    "features": [
+      "morphBall",
+      "morphBallRelated"
+    ]
+  },
+  {
+    "name": "Power Bomb",
+    "code": "powerBomb",
+    "type": "progression",
+    "features": [
+      "morphBall",
+      "morphBallRelated"
+    ]
+  },
+  {
+    "name": "Boost Ball",
+    "code": "boost",
+    "type": "progression",
+    "features": [
+      "morphBall",
+      "morphBallRelated"
+    ]
+  },
+  {
+    "name": "Spider Ball",
+    "code": "spider",
+    "type": "progression",
+    "features": [
+      "morphBall",
+      "morphBallRelated"
+    ]
+  },
+  {
+    "name": "Power Suit",
+    "code": "powerSuit",
+    "type": "progression",
+    "features": [
+      "lifeSupport",
+      "suit"
+    ]
+  },
+  {
+    "name": "Varia Suit",
+    "code": "variaSuit",
+    "type": "progression",
+    "features": [
+      "lifeSupport",
+      "suit"
+    ]
+  },
+  {
+    "name": "Gravity Suit",
+    "code": "gravitySuit",
+    "type": "progression",
+    "features": [
+      "lifeSupport",
+      "suit"
+    ]
+  },
+  {
+    "name": "Phazon Suit",
+    "code": "phazonSuit",
+    "type": "progression",
+    "features": [
+      "lifeSupport",
+      "suit"
+    ]
+  },
+  {
+    "name": "Super Missile",
+    "code": "superMissile",
+    "type": "progression",
+    "features": [
+      "beamRelated",
+      "chargeCombo",
+      "missile",
+      "missileRelated"
+    ]
+  },
+  {
+    "name": "Wavebuster",
+    "code": "wavebuster",
+    "type": "progression",
+    "features": [
+      "beamRelated",
+      "chargeCombo",
+      "missile",
+      "missileRelated"
+    ]
+  },
+  {
+    "name": "Ice Spreader",
+    "code": "iceSpreader",
+    "type": "progression",
+    "features": [
+      "beamRelated",
+      "chargeCombo",
+      "missile",
+      "missileRelated"
+    ]
+  },
+  {
+    "name": "Flamethrower",
+    "code": "flamethrower",
+    "type": "progression",
+    "features": [
+      "beamRelated",
+      "chargeCombo",
+      "missile",
+      "missileRelated"
+    ]
+  },
+  {
+    "name": "Energy Tank",
+    "code": "eTank",
+    "type": "filler",
+    "features": [
+      "lifeSupport"
+    ]
+  },
+  {
+    "name": "Missile Expansion",
+    "code": "missExp",
+    "type": "filler",
+    "features": [
+      "missileRelated"
+    ]
+  },
+  {
+    "name": "Power Bomb Expansion",
+    "code": "pbExp",
+    "type": "filler",
+    "features": [
+      "morphBallRelated"
+    ]
+  }
+]

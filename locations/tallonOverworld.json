@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Tallon Overworld",
+    "children": [
+      {
+        "name": "Landing Site",
+        "features": []
+      },
+      {
+        "name": "Alcove",
+        "features": []
+      },
+      {
+        "name": "Frigate Crash Site",
+        "features": []
+      },
+      {
+        "name": "Transport Tunnel A",
+        "features": []
+      },
+      {
+        "name": "Overgrown Cavern",
+        "features": []
+      },
+      {
+        "name": "Root Cave",
+        "features": []
+      },
+      {
+        "name": "Artifact Temple",
+        "features": []
+      },
+      {
+        "name": "Arbor Chamber",
+        "features": []
+      },
+      {
+        "name": "Cargo Freight Lift to Deck Gamma",
+        "features": []
+      },
+      {
+        "name": "Biohazard Containment",
+        "features": []
+      },
+      {
+        "name": "Hydro Access Tunnel",
+        "features": []
+      },
+      {
+        "name": "Great Tree Chamber",
+        "features": []
+      },
+      {
+        "name": "Life Grove Tunnel",
+        "features": []
+      },
+      {
+        "name": "Life Grove",
+        "features": []
+      }
+    ]
+  }
+]

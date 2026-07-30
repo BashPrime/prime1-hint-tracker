@@ -1,0 +1,151 @@
+{
+  "layout": {
+    "type": "root",
+    "content": [
+      {
+        "key": "col1",
+        "type": "pointer"
+      },
+      {
+        "key": "col2",
+        "type": "pointer"
+      }
+    ]
+  },
+  "col1": {
+    "header": "Chozo Artifacts",
+    "borderColor": "#52CDF7",
+    "type": "array",
+    "grow": true,
+    "comboboxOptions": {
+      "location": [
+        "locations"
+      ]
+    },
+    "content": [
+      {
+        "name": "Truth",
+        "code": "truth",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Strength",
+        "code": "strength",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Elder",
+        "code": "elder",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Wild",
+        "code": "wild",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Lifegiver",
+        "code": "lifegiver",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Warrior",
+        "code": "warrior",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Chozo",
+        "code": "chozo",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Nature",
+        "code": "nature",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Sun",
+        "code": "sun",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "World",
+        "code": "world",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Spirit",
+        "code": "spirit",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      },
+      {
+        "name": "Newborn",
+        "code": "newborn",
+        "type": "hint",
+        "color": "#52CDF7",
+        "hintType": "location"
+      }
+    ]
+  },
+  "col2": {
+    "type": "array",
+    "gap": 2,
+    "grow": true,
+    "content": [
+      {
+        "type": "array",
+        "content": [
+          {
+            "name": "Phazon Suit",
+            "code": "phazonSuit",
+            "image": "images/phazonSuit.webp",
+            "color": "oklch(63.7% 0.237 25.331)",
+            "borderColor": "oklch(63.7% 0.237 25.331)",
+            "type": "hint",
+            "hintType": "location",
+            "comboboxOptions": {
+              "location": [
+                "regions"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "type": "unhinted",
+        "header": "Unhinted Items",
+        "borderColor": "oklch(57.7% 0.245 27.325)",
+        "comboboxOptions": {
+          "item": [
+            "items"
+          ],
+          "location": [
+            "locations"
+          ]
+        }
+      }
+    ]
+  }
+}
