@@ -3,6 +3,10 @@
     "name": "Chozo Ruins",
     "children": [
       {
+        "name": "Main Plaza",
+        "features": []
+      },
+      {
         "name": "Main Plaza (Grapple Ledge)",
         "features": []
       },
@@ -20,6 +24,10 @@
       },
       {
         "name": "Ruined Fountain",
+        "features": []
+      },
+      {
+        "name": "Ruined Shrine",
         "features": []
       },
       {
@@ -63,6 +71,10 @@
         "features": []
       },
       {
+        "name": "Ruined Gallery",
+        "features": []
+      },
+      {
         "name": "Ruined Gallery (Wall)",
         "features": []
       },
@@ -83,6 +95,10 @@
         "features": []
       },
       {
+        "name": "Sunchamber",
+        "features": []
+      },
+      {
         "name": "Sunchamber (Flaahgra)",
         "features": []
       },
@@ -99,11 +115,19 @@
         "features": []
       },
       {
+        "name": "Watery Hall (Scan Puzzle)",
+        "features": []
+      },
+      {
+        "name": "Watery Hall (Underwater)",
+        "features": []
+      },
+      {
         "name": "Dynamo (Lower)",
         "features": []
       },
       {
-        "name": "Dynamo (Upper)",
+        "name": "Dynamo (Spider Track)",
         "features": []
       },
       {
@@ -115,11 +139,11 @@
         "features": []
       },
       {
-        "name": "Furnace (Lower)",
+        "name": "Furnace (Inside)",
         "features": []
       },
       {
-        "name": "Furnace (Upper)",
+        "name": "Furnace (Spider Tracks)",
         "features": []
       },
       {

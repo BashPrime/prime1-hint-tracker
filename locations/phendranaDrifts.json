@@ -3,7 +3,11 @@
     "name": "Phendrana Drifts",
     "children": [
       {
-        "name": "Phendrana Shorelines (Ice)",
+        "name": "Phendrana Shorelines",
+        "features": []
+      },
+      {
+        "name": "Phendrana Shorelines (Behind Ice)",
         "features": []
       },
       {
@@ -20,6 +24,14 @@
       },
       {
         "name": "Ice Ruins East",
+        "features": []
+      },
+      {
+        "name": "Ice Ruins East (Behind Ice)",
+        "features": []
+      },
+      {
+        "name": "Ice Ruins East (Spider Track)",
         "features": []
       },
       {
@@ -63,19 +75,27 @@
         "features": []
       },
       {
-        "name": "Research Lab Aether (Upper)",
+        "name": "Research Lab Aether",
         "features": []
       },
       {
-        "name": "Research Lab Aether (Lower)",
+        "name": "Research Lab Aether (Tank)",
         "features": []
       },
       {
-        "name": "Gravity Chamber (Upper)",
+        "name": "Research Lab Aether (Morph Track)",
         "features": []
       },
       {
-        "name": "Gravity Chamber (Lower)",
+        "name": "Gravity Chamber",
+        "features": []
+      },
+      {
+        "name": "Gravity Chamber (Underwater)",
+        "features": []
+      },
+      {
+        "name": "Gravity Chamber (Grapple Ledge)",
         "features": []
       },
       {
