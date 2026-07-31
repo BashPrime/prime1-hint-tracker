@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Phazon Mines",
+    "children": [
+      {
+        "name": "Main Quarry",
+        "features": []
+      },
+      {
+        "name": "Security Access A",
+        "features": []
+      },
+      {
+        "name": "Storage Depot B",
+        "features": []
+      },
+      {
+        "name": "Storage Depot A",
+        "features": []
+      },
+      {
+        "name": "Elite Research (Laser)",
+        "features": []
+      },
+      {
+        "name": "Elite Research (Phazon Elite)",
+        "features": []
+      },
+      {
+        "name": "Elite Control Access",
+        "features": []
+      },
+      {
+        "name": "Ventilation Shaft",
+        "features": []
+      },
+      {
+        "name": "Phazon Processing Center",
+        "features": []
+      },
+      {
+        "name": "Processing Center Access",
+        "features": []
+      },
+      {
+        "name": "Elite Quarters",
+        "features": []
+      },
+      {
+        "name": "Central Dynamo",
+        "features": []
+      },
+      {
+        "name": "Metroid Quarantine B",
+        "features": []
+      },
+      {
+        "name": "Metroid Quarantine A",
+        "features": []
+      },
+      {
+        "name": "Fungal Hall B",
+        "features": []
+      },
+      {
+        "name": "Phazon Mining Tunnel",
+        "features": []
+      },
+      {
+        "name": "Fungal Hall Access",
+        "features": []
+      },
+      {
+        "name": "Fungal Hall A",
+        "features": []
+      }
+    ]
+  }
+]
