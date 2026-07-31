@@ -2,48 +2,46 @@
   {
     "name": "Magmoor Caverns",
     "children": [
-      [
-        {
-          "name": "Lava Lake",
-          "features": []
-        },
-        {
-          "name": "Triclops Pit",
-          "features": []
-        },
-        {
-          "name": "Storage Cavern",
-          "features": []
-        },
-        {
-          "name": "Transport Tunnel A",
-          "features": []
-        },
-        {
-          "name": "Warrior Shrine",
-          "features": []
-        },
-        {
-          "name": "Shore Tunnel",
-          "features": []
-        },
-        {
-          "name": "Fiery Shores (Morph Track)",
-          "features": []
-        },
-        {
-          "name": "Fiery Shores (Warrior Shrine Tunnel)",
-          "features": []
-        },
-        {
-          "name": "Plasma Processing",
-          "features": []
-        },
-        {
-          "name": "Magmoor Workstation",
-          "features": []
-        }
-      ]
+      {
+        "name": "Lava Lake",
+        "features": []
+      },
+      {
+        "name": "Triclops Pit",
+        "features": []
+      },
+      {
+        "name": "Storage Cavern",
+        "features": []
+      },
+      {
+        "name": "Transport Tunnel A",
+        "features": []
+      },
+      {
+        "name": "Warrior Shrine",
+        "features": []
+      },
+      {
+        "name": "Shore Tunnel",
+        "features": []
+      },
+      {
+        "name": "Fiery Shores (Morph Track)",
+        "features": []
+      },
+      {
+        "name": "Fiery Shores (Warrior Shrine Tunnel)",
+        "features": []
+      },
+      {
+        "name": "Plasma Processing",
+        "features": []
+      },
+      {
+        "name": "Magmoor Workstation",
+        "features": []
+      }
     ]
   }
 ]
