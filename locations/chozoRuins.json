@@ -3,7 +3,19 @@
     "name": "Chozo Ruins",
     "children": [
       {
-        "name": "Main Plaza",
+        "name": "Main Plaza (Grapple Ledge)",
+        "features": []
+      },
+      {
+        "name": "Main Plaza (Half-Pipe)",
+        "features": []
+      },
+      {
+        "name": "Main Plaza (Door to Vault)",
+        "features": []
+      },
+      {
+        "name": "Main Plaza (Tree)",
         "features": []
       },
       {
@@ -11,7 +23,15 @@
         "features": []
       },
       {
-        "name": "Ruined Shrine",
+        "name": "Ruined Shrine (Beetles)",
+        "features": []
+      },
+      {
+        "name": "Ruined Shrine (Upper Tunnel)",
+        "features": []
+      },
+      {
+        "name": "Ruined Shrine (Lower Tunnel)",
         "features": []
       },
       {
@@ -43,7 +63,11 @@
         "features": []
       },
       {
-        "name": "Ruined Gallery",
+        "name": "Ruined Gallery (Wall)",
+        "features": []
+      },
+      {
+        "name": "Ruined Gallery (Tunnel)",
         "features": []
       },
       {
@@ -59,7 +83,11 @@
         "features": []
       },
       {
-        "name": "Sunchamber",
+        "name": "Sunchamber (Flaahgra)",
+        "features": []
+      },
+      {
+        "name": "Sunchamber (Ghosts)",
         "features": []
       },
       {
@@ -71,15 +99,27 @@
         "features": []
       },
       {
-        "name": "Dynamo",
+        "name": "Dynamo (Lower)",
         "features": []
       },
       {
-        "name": "Burn Dome",
+        "name": "Dynamo (Upper)",
         "features": []
       },
       {
-        "name": "Furnace",
+        "name": "Burn Dome (I. Drone)",
+        "features": []
+      },
+      {
+        "name": "Burn Dome (Tunnel)",
+        "features": []
+      },
+      {
+        "name": "Furnace (Lower)",
+        "features": []
+      },
+      {
+        "name": "Furnace (Upper)",
         "features": []
       },
       {
