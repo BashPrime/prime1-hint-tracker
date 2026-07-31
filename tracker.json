@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "0.0.1",
-  "id": "prime1-hints",
+  "id": "prime1-hint-tracker",
   "author": "BashPrime",
   "name": "Metroid Prime Hints",
   "game": "Metroid Prime",
