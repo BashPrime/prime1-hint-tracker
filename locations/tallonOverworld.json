@@ -15,7 +15,7 @@
         "features": []
       },
       {
-        "name": "Transport Tunnel A",
+        "name": "Transport Tunnel B",
         "features": []
       },
       {
@@ -55,7 +55,11 @@
         "features": []
       },
       {
-        "name": "Life Grove",
+        "name": "Life Grove (Start)",
+        "features": []
+      },
+      {
+        "name": "Life Grove (Spinner)",
         "features": []
       }
     ]
