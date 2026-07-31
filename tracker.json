@@ -4,7 +4,7 @@
   "id": "prime1-hints",
   "author": "BashPrime",
   "name": "Metroid Prime Hints",
-  "gameName": "N/A",
+  "game": "Metroid Prime",
   "description": "It's prime 1",
   "defaultSize": {
     "width": 640,
