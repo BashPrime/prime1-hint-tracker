@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Phendrana Drifts",
+    "children": [
+      {
+        "name": "Phendrana Shorelines (Ice)",
+        "features": []
+      },
+      {
+        "name": "Phendrana Shorelines (Spider Track)",
+        "features": []
+      },
+      {
+        "name": "Chozo Ice Temple",
+        "features": []
+      },
+      {
+        "name": "Ice Ruins West",
+        "features": []
+      },
+      {
+        "name": "Ice Ruins East",
+        "features": []
+      },
+      {
+        "name": "Chapel of the Elders",
+        "features": []
+      },
+      {
+        "name": "Ruined Courtyard",
+        "features": []
+      },
+      {
+        "name": "Phendrana Canyon",
+        "features": []
+      },
+      {
+        "name": "Quarantine Cave",
+        "features": []
+      },
+      {
+        "name": "Research Lab Hydra",
+        "features": []
+      },
+      {
+        "name": "Quarantine Monitor",
+        "features": []
+      },
+      {
+        "name": "Observatory",
+        "features": []
+      },
+      {
+        "name": "Transport Access",
+        "features": []
+      },
+      {
+        "name": "Control Tower",
+        "features": []
+      },
+      {
+        "name": "Research Core",
+        "features": []
+      },
+      {
+        "name": "Research Lab Aether (Upper)",
+        "features": []
+      },
+      {
+        "name": "Research Lab Aether (Lower)",
+        "features": []
+      },
+      {
+        "name": "Gravity Chamber (Upper)",
+        "features": []
+      },
+      {
+        "name": "Gravity Chamber (Lower)",
+        "features": []
+      },
+      {
+        "name": "Storage Cave",
+        "features": []
+      },
+      {
+        "name": "Security Cave",
+        "features": []
+      }
+    ]
+  }
+]

@@ -15,7 +15,8 @@
   "locations": [
     "locations/tallonOverworld.json",
     "locations/chozoRuins.json",
-    "locations/magmoorCaverns.json"
+    "locations/magmoorCaverns.json",
+    "locations/phendranaDrifts.json"
   ],
   "features": [],
   "layout": ["layout/layout.json"]
