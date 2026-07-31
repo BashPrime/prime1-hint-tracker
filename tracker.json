@@ -12,7 +12,7 @@
   },
   "cover": "images/cover.webp",
   "items": ["items.json"],
-  "locations": ["locations/tallonOverworld.json"],
+  "locations": ["locations/tallonOverworld.json", "locations/chozoRuins.json"],
   "features": [],
   "layout": ["layout/layout.json"]
 }

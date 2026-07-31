@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Chozo Ruins",
+    "children": [
+      {
+        "name": "Main Plaza",
+        "features": []
+      },
+      {
+        "name": "Ruined Fountain",
+        "features": []
+      },
+      {
+        "name": "Ruined Shrine",
+        "features": []
+      },
+      {
+        "name": "Vault",
+        "features": []
+      },
+      {
+        "name": "Training Chamber",
+        "features": []
+      },
+      {
+        "name": "Ruined Nursery",
+        "features": []
+      },
+      {
+        "name": "Training Chamber Access",
+        "features": []
+      },
+      {
+        "name": "Magma Pool",
+        "features": []
+      },
+      {
+        "name": "Tower of Light",
+        "features": []
+      },
+      {
+        "name": "Tower Chamber",
+        "features": []
+      },
+      {
+        "name": "Ruined Gallery",
+        "features": []
+      },
+      {
+        "name": "Transport Access North",
+        "features": []
+      },
+      {
+        "name": "Gathering Hall",
+        "features": []
+      },
+      {
+        "name": "Hive Totem",
+        "features": []
+      },
+      {
+        "name": "Sunchamber",
+        "features": []
+      },
+      {
+        "name": "Watery Hall Access",
+        "features": []
+      },
+      {
+        "name": "Watery Hall",
+        "features": []
+      },
+      {
+        "name": "Dynamo",
+        "features": []
+      },
+      {
+        "name": "Burn Dome",
+        "features": []
+      },
+      {
+        "name": "Furnace",
+        "features": []
+      },
+      {
+        "name": "Hall of the Elders",
+        "features": []
+      },
+      {
+        "name": "Crossway",
+        "features": []
+      },
+      {
+        "name": "Elder Chamber",
+        "features": []
+      },
+      {
+        "name": "Antechamber",
+        "features": []
+      }
+    ]
+  }
+]
