@@ -7,31 +7,15 @@
         "features": []
       },
       {
-        "name": "Phendrana Shorelines (Behind Ice)",
-        "features": []
-      },
-      {
-        "name": "Phendrana Shorelines (Spider Track)",
-        "features": []
-      },
-      {
         "name": "Chozo Ice Temple",
         "features": []
       },
       {
-        "name": "Ice Ruins West",
+        "name": "Ice Ruins West (IRW)",
         "features": []
       },
       {
-        "name": "Ice Ruins East",
-        "features": []
-      },
-      {
-        "name": "Ice Ruins East (Behind Ice)",
-        "features": []
-      },
-      {
-        "name": "Ice Ruins East (Spider Track)",
+        "name": "Ice Ruins East (IRE)",
         "features": []
       },
       {
@@ -47,7 +31,7 @@
         "features": []
       },
       {
-        "name": "Quarantine Cave",
+        "name": "Quarantine Cave (Thardus)",
         "features": []
       },
       {
@@ -55,7 +39,7 @@
         "features": []
       },
       {
-        "name": "Quarantine Monitor",
+        "name": "Quarantine Monitor (QMon)",
         "features": []
       },
       {
@@ -79,27 +63,11 @@
         "features": []
       },
       {
-        "name": "Research Lab Aether (Tank)",
-        "features": []
-      },
-      {
-        "name": "Research Lab Aether (Morph Track)",
-        "features": []
-      },
-      {
         "name": "Gravity Chamber",
         "features": []
       },
       {
-        "name": "Gravity Chamber (Underwater)",
-        "features": []
-      },
-      {
-        "name": "Gravity Chamber (Grapple Ledge)",
-        "features": []
-      },
-      {
-        "name": "Storage Cave",
+        "name": "Storage Cave (SCP)",
         "features": []
       },
       {

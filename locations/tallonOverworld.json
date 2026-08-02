@@ -11,11 +11,11 @@
         "features": []
       },
       {
-        "name": "Frigate Crash Site",
+        "name": "Frigate Crash Site (FCS)",
         "features": []
       },
       {
-        "name": "Transport Tunnel B",
+        "name": "Transport Tunnel B (TTB)",
         "features": []
       },
       {
@@ -43,23 +43,19 @@
         "features": []
       },
       {
-        "name": "Hydro Access Tunnel",
+        "name": "Hydro Access Tunnel (HAT)",
         "features": []
       },
       {
-        "name": "Great Tree Chamber",
+        "name": "Great Tree Chamber (GTC)",
         "features": []
       },
       {
-        "name": "Life Grove Tunnel",
+        "name": "Life Grove Tunnel (LGT)",
         "features": []
       },
       {
-        "name": "Life Grove (Start)",
-        "features": []
-      },
-      {
-        "name": "Life Grove (Spinner)",
+        "name": "Life Grove",
         "features": []
       }
     ]

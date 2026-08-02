@@ -7,22 +7,6 @@
         "features": []
       },
       {
-        "name": "Main Plaza (Grapple Ledge)",
-        "features": []
-      },
-      {
-        "name": "Main Plaza (Half-Pipe)",
-        "features": []
-      },
-      {
-        "name": "Main Plaza (Door to Vault)",
-        "features": []
-      },
-      {
-        "name": "Main Plaza (Tree)",
-        "features": []
-      },
-      {
         "name": "Ruined Fountain",
         "features": []
       },
@@ -31,23 +15,11 @@
         "features": []
       },
       {
-        "name": "Ruined Shrine (Beetles)",
-        "features": []
-      },
-      {
-        "name": "Ruined Shrine (Upper Tunnel)",
-        "features": []
-      },
-      {
-        "name": "Ruined Shrine (Lower Tunnel)",
-        "features": []
-      },
-      {
         "name": "Vault",
         "features": []
       },
       {
-        "name": "Training Chamber",
+        "name": "Training Chamber (TC)",
         "features": []
       },
       {
@@ -55,7 +27,7 @@
         "features": []
       },
       {
-        "name": "Training Chamber Access",
+        "name": "Training Chamber Access (TCA)",
         "features": []
       },
       {
@@ -63,7 +35,7 @@
         "features": []
       },
       {
-        "name": "Tower of Light",
+        "name": "Tower of Light (ToL)",
         "features": []
       },
       {
@@ -75,19 +47,11 @@
         "features": []
       },
       {
-        "name": "Ruined Gallery (Wall)",
+        "name": "Transport Access North (TAN)",
         "features": []
       },
       {
-        "name": "Ruined Gallery (Tunnel)",
-        "features": []
-      },
-      {
-        "name": "Transport Access North",
-        "features": []
-      },
-      {
-        "name": "Gathering Hall",
+        "name": "Gathering Hall (GH)",
         "features": []
       },
       {
@@ -99,15 +63,7 @@
         "features": []
       },
       {
-        "name": "Sunchamber (Flaahgra)",
-        "features": []
-      },
-      {
-        "name": "Sunchamber (Ghosts)",
-        "features": []
-      },
-      {
-        "name": "Watery Hall Access",
+        "name": "Watery Hall Access (WHA)",
         "features": []
       },
       {
@@ -115,35 +71,15 @@
         "features": []
       },
       {
-        "name": "Watery Hall (Scan Puzzle)",
+        "name": "Dynamo",
         "features": []
       },
       {
-        "name": "Watery Hall (Underwater)",
+        "name": "Burn Dome (Zoid)",
         "features": []
       },
       {
-        "name": "Dynamo (Lower)",
-        "features": []
-      },
-      {
-        "name": "Dynamo (Spider Track)",
-        "features": []
-      },
-      {
-        "name": "Burn Dome (I. Drone)",
-        "features": []
-      },
-      {
-        "name": "Burn Dome (Tunnel)",
-        "features": []
-      },
-      {
-        "name": "Furnace (Inside)",
-        "features": []
-      },
-      {
-        "name": "Furnace (Spider Tracks)",
+        "name": "Furnace",
         "features": []
       },
       {
@@ -151,7 +87,7 @@
         "features": []
       },
       {
-        "name": "Crossway",
+        "name": "Crossway (Hotdog)",
         "features": []
       },
       {

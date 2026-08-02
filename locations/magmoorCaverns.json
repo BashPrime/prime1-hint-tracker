@@ -11,11 +11,11 @@
         "features": []
       },
       {
-        "name": "Storage Cavern",
+        "name": "Storage Cavern (SCM)",
         "features": []
       },
       {
-        "name": "Transport Tunnel A",
+        "name": "Transport Tunnel A (TTA)",
         "features": []
       },
       {
@@ -28,14 +28,6 @@
       },
       {
         "name": "Fiery Shores",
-        "features": []
-      },
-      {
-        "name": "Fiery Shores (Morph Track)",
-        "features": []
-      },
-      {
-        "name": "Fiery Shores (Warrior Shrine Tunnel)",
         "features": []
       },
       {

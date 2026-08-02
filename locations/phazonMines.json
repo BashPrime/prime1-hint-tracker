@@ -11,11 +11,11 @@
         "features": []
       },
       {
-        "name": "Storage Depot B",
+        "name": "Storage Depot B (SDB)",
         "features": []
       },
       {
-        "name": "Storage Depot A",
+        "name": "Storage Depot A (SDA)",
         "features": []
       },
       {
@@ -23,15 +23,7 @@
         "features": []
       },
       {
-        "name": "Elite Research (Phazon Elite)",
-        "features": []
-      },
-      {
-        "name": "Elite Research (Laser)",
-        "features": []
-      },
-      {
-        "name": "Elite Control Access",
+        "name": "Elite Control Access (ECA, Boombox)",
         "features": []
       },
       {
@@ -39,15 +31,15 @@
         "features": []
       },
       {
-        "name": "Phazon Processing Center",
+        "name": "Phazon Processing Center (PPC)",
         "features": []
       },
       {
-        "name": "Processing Center Access",
+        "name": "Processing Center Access (PCA)",
         "features": []
       },
       {
-        "name": "Elite Quarters",
+        "name": "Elite Quarters (EQ)",
         "features": []
       },
       {
@@ -55,27 +47,27 @@
         "features": []
       },
       {
-        "name": "Metroid Quarantine B",
+        "name": "Metroid Quarantine B (MQB)",
         "features": []
       },
       {
-        "name": "Metroid Quarantine A",
+        "name": "Metroid Quarantine A (MQA)",
         "features": []
       },
       {
-        "name": "Fungal Hall B",
+        "name": "Fungal Hall B (FHB)",
         "features": []
       },
       {
-        "name": "Phazon Mining Tunnel",
+        "name": "Phazon Mining Tunnel (PMT)",
         "features": []
       },
       {
-        "name": "Fungal Hall Access",
+        "name": "Fungal Hall Access (FHAcc)",
         "features": []
       },
       {
-        "name": "Fungal Hall A",
+        "name": "Fungal Hall A (FHA)",
         "features": []
       }
     ]
