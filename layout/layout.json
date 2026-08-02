@@ -112,61 +112,68 @@
   "col2": {
     "type": "array",
     "gap": 2,
-    "grow": true,
     "content": [
       {
-        "type": "array",
+        "type": "grid",
         "content": [
-          {
-            "name": "Phazon Suit",
-            "code": "phazonSuit",
-            "image": "images/phazonSuit.webp",
-            "color": "oklch(63.7% 0.237 25.331)",
-            "borderColor": "oklch(63.7% 0.237 25.331)",
-            "type": "hint",
-            "hintType": "location",
-            "comboboxOptions": {
-              "location": [
-                "regions"
+          [
+            {
+              "name": "Phazon Suit",
+              "code": "phazonSuit",
+              "image": "images/phazonSuit.webp",
+              "color": "oklch(63.7% 0.237 25.331)",
+              "borderColor": "oklch(63.7% 0.237 25.331)",
+              "type": "hint",
+              "hintType": "location",
+              "comboboxOptions": {
+                "location": [
+                  "locations",
+                  "regions"
+                ]
+              }
+            },
+            {
+              "type": "array",
+              "content": [
+                {
+                  "name": "Wave Beam",
+                  "code": "waveBeam",
+                  "color": "oklch(62.7% 0.265 303.9)",
+                  "type": "hint",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": [
+                      "locations"
+                    ]
+                  }
+                },
+                {
+                  "name": "Ice Beam",
+                  "code": "iceBeam",
+                  "color": "oklch(71.5% 0.143 215.221)",
+                  "type": "hint",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": [
+                      "locations"
+                    ]
+                  }
+                },
+                {
+                  "name": "Plasma Beam",
+                  "code": "plasmaBeam",
+                  "color": "oklch(63.7% 0.237 25.331)",
+                  "type": "hint",
+                  "hintType": "location",
+                  "comboboxOptions": {
+                    "location": [
+                      "locations"
+                    ]
+                  }
+                }
               ]
             }
-          },
-          {
-            "name": "Wave Beam",
-            "code": "waveBeam",
-            "color": "oklch(62.7% 0.265 303.9)",
-            "type": "hint",
-            "hintType": "location",
-            "comboboxOptions": {
-              "location": [
-                "locations"
-              ]
-            }
-          },
-          {
-            "name": "Ice Beam",
-            "code": "iceBeam",
-            "color": "oklch(71.5% 0.143 215.221)",
-            "type": "hint",
-            "hintType": "location",
-            "comboboxOptions": {
-              "location": [
-                "locations"
-              ]
-            }
-          },
-          {
-            "name": "Plasma Beam",
-            "code": "plasmaBeam",
-            "color": "oklch(63.7% 0.237 25.331)",
-            "type": "hint",
-            "hintType": "location",
-            "comboboxOptions": {
-              "location": [
-                "locations"
-              ]
-            }
-          }
+          ]
         ]
       },
       {
