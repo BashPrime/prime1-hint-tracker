@@ -8,7 +8,7 @@
   "description": "Tracks the 12 Chozo Artifacts, Phazon Beam, three main beams, and unhinted items! Rooms have shortcuts for easier access/typing.",
   "defaultSize": {
     "width": 640,
-    "height": 654
+    "height": 664
   },
   "cover": "images/cover.webp",
   "items": ["items.json"],
