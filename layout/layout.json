@@ -130,6 +130,42 @@
                 "regions"
               ]
             }
+          },
+          {
+            "name": "Wave Beam",
+            "code": "waveBeam",
+            "color": "oklch(62.7% 0.265 303.9)",
+            "type": "hint",
+            "hintType": "location",
+            "comboboxOptions": {
+              "location": [
+                "locations"
+              ]
+            }
+          },
+          {
+            "name": "Ice Beam",
+            "code": "iceBeam",
+            "color": "oklch(71.5% 0.143 215.221)",
+            "type": "hint",
+            "hintType": "location",
+            "comboboxOptions": {
+              "location": [
+                "locations"
+              ]
+            }
+          },
+          {
+            "name": "Plasma Beam",
+            "code": "plasmaBeam",
+            "color": "oklch(63.7% 0.237 25.331)",
+            "type": "hint",
+            "hintType": "location",
+            "comboboxOptions": {
+              "location": [
+                "locations"
+              ]
+            }
           }
         ]
       },
